@@ -1,0 +1,12 @@
+C:\repos\WarehouseManagerWSAPBO\src\Domain\bin\Debug\net5.0\WarehouseManger.Domain.deps.json
+C:\repos\WarehouseManagerWSAPBO\src\Domain\bin\Debug\net5.0\WarehouseManger.Domain.dll
+C:\repos\WarehouseManagerWSAPBO\src\Domain\bin\Debug\net5.0\WarehouseManger.Domain.pdb
+C:\repos\WarehouseManagerWSAPBO\src\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\WarehouseManagerWSAPBO\src\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\repos\WarehouseManagerWSAPBO\src\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\repos\WarehouseManagerWSAPBO\src\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\repos\WarehouseManagerWSAPBO\src\Domain\obj\Debug\net5.0\Domain.sourcelink.json
+C:\repos\WarehouseManagerWSAPBO\src\Domain\obj\Debug\net5.0\WarehouseManger.Domain.dll
+C:\repos\WarehouseManagerWSAPBO\src\Domain\obj\Debug\net5.0\refint\WarehouseManger.Domain.dll
+C:\repos\WarehouseManagerWSAPBO\src\Domain\obj\Debug\net5.0\WarehouseManger.Domain.pdb
+C:\repos\WarehouseManagerWSAPBO\src\Domain\obj\Debug\net5.0\ref\WarehouseManger.Domain.dll

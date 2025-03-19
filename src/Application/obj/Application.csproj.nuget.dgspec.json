@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Application\\Application.csproj": {}
+    "C:\\repos\\WarehouseManagerWSAPBO\\src\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Application\\Application.csproj": {
+    "C:\\repos\\WarehouseManagerWSAPBO\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\repos\\WarehouseManagerWSAPBO\\src\\Application\\Application.csproj",
         "projectName": "WarehouseManger.Application",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Application\\Application.csproj",
+        "projectPath": "C:\\repos\\WarehouseManagerWSAPBO\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Application\\obj\\",
+        "outputPath": "C:\\repos\\WarehouseManagerWSAPBO\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Domain\\Domain.csproj"
+              "C:\\repos\\WarehouseManagerWSAPBO\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\repos\\WarehouseManagerWSAPBO\\src\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Shared\\Shared.csproj"
+              "C:\\repos\\WarehouseManagerWSAPBO\\src\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\repos\\WarehouseManagerWSAPBO\\src\\Shared\\Shared.csproj"
               }
             }
           }
@@ -119,14 +119,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Domain\\Domain.csproj": {
+    "C:\\repos\\WarehouseManagerWSAPBO\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\repos\\WarehouseManagerWSAPBO\\src\\Domain\\Domain.csproj",
         "projectName": "WarehouseManger.Domain",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Domain\\Domain.csproj",
+        "projectPath": "C:\\repos\\WarehouseManagerWSAPBO\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Domain\\obj\\",
+        "outputPath": "C:\\repos\\WarehouseManagerWSAPBO\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,20 +176,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -199,14 +185,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Shared\\Shared.csproj": {
+    "C:\\repos\\WarehouseManagerWSAPBO\\src\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\repos\\WarehouseManagerWSAPBO\\src\\Shared\\Shared.csproj",
         "projectName": "WarehouseManger.Shared",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Shared\\Shared.csproj",
+        "projectPath": "C:\\repos\\WarehouseManagerWSAPBO\\src\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Shared\\obj\\",
+        "outputPath": "C:\\repos\\WarehouseManagerWSAPBO\\src\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -266,20 +252,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

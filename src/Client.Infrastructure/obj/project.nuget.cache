@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DzTgQAVIC8M=",
+  "dgSpecHash": "p3Axk3qc7hc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\WarehouseManger\\src\\Client.Infrastructure\\Client.Infrastructure.csproj",
+  "projectFilePath": "C:\\repos\\WarehouseManagerWSAPBO\\src\\Client.Infrastructure\\Client.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
@@ -56,10 +56,7 @@
     "C:\\Users\\Admin\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.linq.dynamic.core\\1.2.10\\system.linq.dynamic.core.1.2.10.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\toolbelt.blazor.httpclientinterceptor\\9.2.1\\toolbelt.blazor.httpclientinterceptor.9.2.1.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\toolbelt.blazor.httpclientinterceptor\\9.2.1\\toolbelt.blazor.httpclientinterceptor.9.2.1.nupkg.sha512"
   ],
   "logs": []
 }
